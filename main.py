@@ -2,7 +2,7 @@ import requests
 import duckduckgo
 
 API_URL = "https://api-inference.huggingface.co/models/google/pegasus-xsum"
-headers = {"Authorization": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxx"} #change xxxxxxxxxxxxxxxxx to YOUR user token.
+headers = {"Authorization": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxx"} #change xxxxxxxxxxxxxxxxx to YOUR user token for huggingface.
 
 def query(payload):
 	response = requests.post(API_URL, headers=headers, json=payload)
