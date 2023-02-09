@@ -3,7 +3,7 @@ A FOSS Alternative to BingGPT
 
 ## NOTE!
 
-Requires modules "duckduckgo3" and "requests"
+Requires modules "duckduckgo3" and "requests", as well as a huggingface user key.
 
 ## Also, to quote bing.com/new as of 2/9/2023...
 "How does the new Bing generate responses?
