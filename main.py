@@ -18,7 +18,7 @@ while True:
       ans = o[0]['generated_text'].split("<USER>:")[1]
       if ('don\'t understand' in ans or 'don\'t know' in ans or 'try' in ans or 'not sure' in ans):
         raise Exception
-      print("USER:" + ans.replace("<BOT>:<USER>", "").replace("\\r", ""))
+      print("<USER>:" + ans.replace("<BOT>:<USER>", "").replace("\\r", ""))
     except:
       s = duckduckgo.get_zci(q)
       o = query({
