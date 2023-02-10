@@ -1,5 +1,5 @@
 # duckbart
-A FOSS Alternative to BingGPT
+A FOSS Alternative to BingGPT, under a modified MIT license.
 
 ## NOTE!
 
