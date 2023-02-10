@@ -1,5 +1,5 @@
 # duckbart
-A source-available and contributable alternative to ChatGPT and BingGPT (if you start your question with ANS:), under a modified MIT license.
+A source-available and contributable alternative to ChatGPT and BingGPT (if you start your question with ANS: or GPT-J doesn't understand...), under a modified MIT license.
 
 ## NOTE!
 
@@ -12,4 +12,4 @@ Bing searches for relevant content across the web and then summarizes what it fi
 
 ## Disclaimer
 
-This does NOT provide sources/references, and the answers function almost NEVER provides accurate information in our testing.
+This does NOT provide sources/references, and the answers function almost NEVER provides accurate information in our testing. This is just testing what Public AI can do when combined with an instant answers platform.
