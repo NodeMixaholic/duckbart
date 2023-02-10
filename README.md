@@ -1,5 +1,5 @@
 # duckbart
-A source-available and contributable alternative to BingGPT, under a modified MIT license.
+A source-available and contributable alternative to ChatGPT, under a modified MIT license.
 
 ## NOTE!
 
